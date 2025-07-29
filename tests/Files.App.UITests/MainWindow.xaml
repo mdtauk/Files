@@ -93,6 +93,7 @@
 						<NavigationViewItem Content="StorageRing/StorageBar" Tag="StorageControlsPage" />
 						<NavigationViewItem Content="Omnibar" Tag="OmnibarPage" />
 						<NavigationViewItem Content="BreadcrumbBar" Tag="BreadcrumbBarPage" />
+						<NavigationViewItem Content="GridStyle" Tag="GridStylePage" />
 					</NavigationViewItem.MenuItems>
 				</NavigationViewItem>
 			</NavigationView.MenuItems>
